@@ -1,8 +1,5 @@
-Hi 🙋‍♂️ My name is Nicolas Smael 
+Nicolas Smael 
 =====================================================================================================================================
-
-Front End Developer
--------------------
 
 * 🌍  I'm based in Argentina
 * ✨  Front end with React Js
